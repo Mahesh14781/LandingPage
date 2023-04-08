@@ -28,13 +28,14 @@
 
 .section1{
    max-height:100vh ;
+   color: rgb(234, 22, 22);
+
 }
 
 .section1 h1{
     font-size: 2rem;
+    color: rgb(207, 38, 38);
 }
-
-
 
 .logo{
     font-size: 1.3rem;
